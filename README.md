@@ -8,7 +8,7 @@ So you ran into a problem that one mod has a forced incompatibility with another
 
 ``[Error  :   BepInEx] Could not load [Almost Perfect Mod 1.0.0] because it is incompatible with: com.puszkapotato.aperfectmod``
 
-Go [Here](#how-to-remove-incompatibility-hex-editing) if you want to get to the how-to.
+Go [Here](#how-to-remove-incompatibility-hex-editing) if you want to get to the how-to. Go [Here] if you want to watch a video guide.
 
 If you want to know why it happens keep reading what's below.
 
@@ -125,3 +125,7 @@ You will need plugin GUID to continue if you don't know how to get go [HERE](#ho
 Before we start removing the incompatibility we need to find out the plugin GUID of the mod that causes the incompatibility with our mod. We can find it in the logs after we run the game with both mods. You can see in a screenshot below the line that I highlighted. In this case the Plugin GUID is ``com.puszkapotato.aperfectmod``.
 
 ![LogOutput Incompatibility Example](/guide/logoutput.png)
+
+### Video Guide
+
+![Video Guide](/guide/video-guide.mp4)
