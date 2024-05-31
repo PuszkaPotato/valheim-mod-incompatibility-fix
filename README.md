@@ -4,7 +4,7 @@ So you ran into a problem that one mod has a forced incompatibility with another
 
 ``[Error  :   BepInEx] Could not load [Almost Perfect Mod 1.0.0] because it is incompatible with: com.puszkapotato.aperfectmod``
 
-Go [Here](#how-to-remove-incompatiblity-hex-editing) if you want to get to the how-to.
+Go [Here](#how-to-remove-incompatibility-hex-editing) if you want to get to the how-to.
 
 If you want to know why it happens keep reading what's below.
 
