@@ -1,4 +1,8 @@
-# Valheim Incompatibility Fix
+# Valheim Mod Incompatibility Fix Guide
+
+Welcome to the guide on fixing mod incompatibility in Valheim using hex editing. This guide will help you remove forced incompatibility between mods, ensuring a smoother gaming experience. Follow the steps below to get started.
+
+## Let's Get Started
 
 So you ran into a problem that one mod has a forced incompatibility with another one? The fix for this is rather easy if the error you get is this:
 
